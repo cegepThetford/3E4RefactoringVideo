@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringVideo_Affaires", "RefactoringVideo_Affaires\RefactoringVideo_Affaires.csproj", "{0ABCDC25-290B-49F5-A799-1C281BFD936C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringVideo_Tests", "RefactoringVideo_Tests\RefactoringVideo_Tests.csproj", "{CEC595C0-BA6F-4977-8E6C-5613A084E277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABCDC25-290B-49F5-A799-1C281BFD936C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABCDC25-290B-49F5-A799-1C281BFD936C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABCDC25-290B-49F5-A799-1C281BFD936C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABCDC25-290B-49F5-A799-1C281BFD936C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC595C0-BA6F-4977-8E6C-5613A084E277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC595C0-BA6F-4977-8E6C-5613A084E277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC595C0-BA6F-4977-8E6C-5613A084E277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC595C0-BA6F-4977-8E6C-5613A084E277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
